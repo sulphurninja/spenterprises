@@ -1,5 +1,4 @@
 import Header from '@/components/header'
-import Hero from '@/components/hero'
 import BookingForm from '@/components/booking-form'
 import FeaturedDestinations from '@/components/featured-destinations'
 import Services from '@/components/services'
