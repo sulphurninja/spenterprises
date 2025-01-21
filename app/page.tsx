@@ -1,7 +1,6 @@
 'use client'
 
 import Header from '@/components/header'
-import Hero from '@/components/hero'
 import FeaturedDestinations from '@/components/featured-destinations'
 import Services from '@/components/services'
 import Testimonials from '@/components/testimonials'
