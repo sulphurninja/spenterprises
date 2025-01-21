@@ -21,7 +21,7 @@ export default function Footer() {
           </div>
           <div>
             <h3 className="text-lg font-semibold mb-2">Contact Us</h3>
-            <p className="text-sm">Hinjewadi, Pune, 411033</p>
+            <p className="text-sm">Near Godrej Marketing Office Maan, Hinjewadi, Pune, 411057</p>
             <p className="text-sm">Phone: +91 7447477741</p>
             <p className="text-sm">Email: info@spticketbooking.com</p>
           </div>
